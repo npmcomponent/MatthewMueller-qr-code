@@ -1,0 +1,13 @@
+{
+  "name": "matthewmueller-qr-code",
+  "description": "generate qr codes",
+  "version": "0.0.1",
+  "keywords": [
+    "qr",
+    "code",
+    "encode"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
